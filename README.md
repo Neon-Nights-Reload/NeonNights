@@ -1,1 +1,1 @@
-# NeonNights
+# NeonNights Rule
